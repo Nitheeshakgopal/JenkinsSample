@@ -24,7 +24,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>Jenkins.Trail.Sample</mainClass>
+							<mainClass>Trail.Sample</mainClass>
 						</manifest>
 					</archive>
 </configuration>
